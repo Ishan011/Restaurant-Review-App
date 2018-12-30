@@ -72,7 +72,6 @@ nav h1 a {
     background-color: #eee;
     font-size: 17px;
     margin: 0;
-    /*width: calc(50% - 80px);*/
 }
 
 /* Display list items side by side */
@@ -89,7 +88,7 @@ nav h1 a {
 
 /* Add a color to all links inside the list */
 #breadcrumb li a {
-    color: #0275d8;
+    color: #47008E;
     text-decoration: none;
 }
 
@@ -118,9 +117,6 @@ header .skip-link:focus {
   height: 400px;
   width: 100%;
   background-color: #ccc;
-}
-.leaflet-container a {
-    color: #47008E;
 }
 /* ====================== Restaurant Filtering ====================== */
 .filter-options {
@@ -315,7 +311,7 @@ header .skip-link:focus {
   text-align: right;
 }
 #restaurant-hours td {
-  color: #666;
+  color: #333;
 }
 /* ====================== Media Queries ====================== */
 
@@ -332,9 +328,6 @@ header .skip-link:focus {
     text-align: left;
     padding-bottom: 40px;
   }
- /* #restaurants-list li {
-    max-width: 42%;
-  }*/
   #restaurants-list li h1 {
     height: 35px;
   }
