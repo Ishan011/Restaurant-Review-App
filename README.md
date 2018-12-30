@@ -1,6 +1,6 @@
 # Restaurant Review App
 
-# Table of Contents
+## Table of Contents
 
 * [About](#about)
 * [Project Instructions](#project-instructions)
