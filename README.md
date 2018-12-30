@@ -21,7 +21,7 @@ In order to run the application:
 
 1. Run it localy
 
-* Download the .zip file
+* Download the .zip file and extract it.
 
 * In this folder, start up a simple HTTP server to serve up the site files on your local computer. Python has some simple tools to do this, and you don't even need to know Python. For most people, it's already installed on your computer. 
 
