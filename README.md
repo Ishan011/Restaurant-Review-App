@@ -31,8 +31,6 @@ In order to run the application:
 
 ## Code Dependencies
 
-* [Project Restaurant Reviews (Stage 1) - Starter Code](https://github.com/udacity/mws-restaurant-stage-1)
-
 * [Leaflet.js and Mapbox]
 
 This repository uses [leafletjs](https://leafletjs.com/) with [Mapbox](https://www.mapbox.com/). Mapbox is free to use, and does not require any payment information.
